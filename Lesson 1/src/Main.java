@@ -6,12 +6,7 @@ public class Main {
     private static Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) {
-//        algorithm2();//более эффективный
-        HashMap<Integer, Integer> map = new HashMap<>();
-        map.f
-        map.put(1, 1);
-        map.put(1, 2);
-        System.out.println(map.get(Integer.valueOf(1)));
+        algorithm2();//более эффективный
     }
 
 
