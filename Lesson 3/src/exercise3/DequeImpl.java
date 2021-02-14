@@ -21,7 +21,7 @@ public class DequeImpl<E> extends QueueImpl<E> implements MyDeque<E> {
 
     @Override
     public E peekLast() {
-        if (tail==0 && size != 0) return data[data.length-1];
+        if (tail == 0 && size != 0) return data[data.length - 1];
         return super.peek();
 
     }
@@ -34,7 +34,7 @@ public class DequeImpl<E> extends QueueImpl<E> implements MyDeque<E> {
     @Override
     public E removeLast() {
         if (isEmpty()) return null;
-        if (tail==0 && size != 0) return data[data.length-1];
+        if (data.length - 1 == 0 && size != 0) return data[data.length - 1];
         size--;
         return data[--tail];
     }
