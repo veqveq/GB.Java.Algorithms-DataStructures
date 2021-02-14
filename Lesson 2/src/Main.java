@@ -21,7 +21,7 @@ public class Main {
         array.bubbleSort();
         long finish = System.nanoTime();
         System.out.println(array);
-        System.out.printf("Operation time: %d ms \n", finish - start);
+        System.out.printf("Operation time: %d ms%n", finish - start);
     }
 
     public static void selectSort(ArrayImpl<Integer> array) {
@@ -30,7 +30,7 @@ public class Main {
         array.sortSelect();
         long finish = System.nanoTime();
         System.out.println(array);
-        System.out.printf("Operation time: %d ms \n", finish - start);
+        System.out.printf("Operation time: %d ms%n", finish - start);
     }
 
     public static void insertSort(ArrayImpl<Integer> array) {
@@ -39,6 +39,6 @@ public class Main {
         array.sortInsert();
         long finish = System.nanoTime();
         System.out.println(array);
-        System.out.printf("Operation time: %d ms \n", finish - start);
+        System.out.printf("Operation time: %d ms%n", finish - start);
     }
 }
