@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39d60117-974f-4aeb-ad79-11d58c94c8aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 1/.idea/dictionaries/EHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 1/BinaryFIndGame.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 1/out/production/BinaryFIndGame/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2/Lesson 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2/out/production/Lesson 2/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2/out/production/Lesson 2/ArrayImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2/out/production/Lesson 2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2/out/production/Lesson 2/SortedArr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2/src/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2/src/ArrayImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/ArrayImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2/src/SortedArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/SortedArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 3/.idea/Lesson 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 3/Lesson 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 3/src/exercise1/queue/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/exercise1/queue/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 3/src/exercise1/queue/QueueImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/exercise1/queue/QueueImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 3/src/exercise1/queue/QueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/exercise1/queue/QueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 3/src/exercise1/queue/priority/PriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/exercise1/queue/priority/PriorityQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 3/src/exercise1/queue/priority/PriorityQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/exercise1/queue/priority/PriorityQueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 3/src/exercise1/stack/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/exercise1/stack/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 3/src/exercise1/stack/StackImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/exercise1/stack/StackImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 3/src/exercise1/stack/StackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/exercise1/stack/StackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 3/src/exercise2/Exercise2Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/exercise2/Exercise2Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 3/src/exercise2/Reverser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/exercise2/Reverser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 3/src/exercise2/StringReverser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/exercise2/StringReverser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 3/src/exercise3/DequeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/exercise3/DequeImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 3/src/exercise3/DequeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/exercise3/DequeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 3/src/exercise3/MyDeque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/exercise3/MyDeque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 4/src/linkedlist/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/linkedlist/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 4/src/linkedlist/iterator/IteratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/linkedlist/iterator/IteratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 4/src/linkedlist/iterator/MyIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/linkedlist/iterator/MyIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 4/src/linkedlist/iterator/MyIteratorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/linkedlist/iterator/MyIteratorImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 4/src/linkedlist/simple/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/linkedlist/simple/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 4/src/linkedlist/simple/SimpleLinkedListImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/linkedlist/simple/SimpleLinkedListImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 4/src/linkedlist/simple/SimpleLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/linkedlist/simple/SimpleLinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 4/src/linkedlist/twoside/TwoSideLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/linkedlist/twoside/TwoSideLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 4/src/linkedlist/twoside/TwoSideLinkedListImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/linkedlist/twoside/TwoSideLinkedListImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 4/src/linkedlist/twoside/TwoSideLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/linkedlist/twoside/TwoSideLinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 4/src/linkedqueue/LinkedQueueImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/linkedqueue/LinkedQueueImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 4/src/linkedqueue/LinkedQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/linkedqueue/LinkedQueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 4/src/linkedqueue/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/linkedqueue/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 4/src/linkedstack/LinkedStackImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/linkedstack/LinkedStackImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 4/src/linkedstack/LinkedStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/linkedstack/LinkedStackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 4/src/linkedstack/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/linkedstack/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 5/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 5/Lesson 5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 5/out/production/Lesson 5/META-INF/Lesson 5.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 5/out/production/Lesson 5/exercise1/MyMath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 5/out/production/Lesson 5/exercise1/PowTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 5/src/exercise1/MyMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson5/exercise1/MyMath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 5/src/exercise1/PowTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson5/exercise1/PowTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 6/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 6/Lesson 6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 6/out/production/Lesson 6/homework/TreeAnalysis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 6/out/production/Lesson 6/tree/BinaryTree$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 6/out/production/Lesson 6/tree/BinaryTree$ParentTreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 6/out/production/Lesson 6/tree/BinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 6/out/production/Lesson 6/tree/Tree$TraverseMode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 6/out/production/Lesson 6/tree/Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 6/out/production/Lesson 6/tree/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 6/out/production/Lesson 6/tree/TreeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 6/src/homework/TreeAnalysis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson6/homework/TreeAnalysis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 6/src/tree/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson6/tree/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 6/src/tree/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson6/tree/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 6/src/tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson6/tree/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 6/src/tree/TreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson6/tree/TreeTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pDZ7nftzvphCWSRfNkNapnOFVA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Учеба\GeekBrains\Практические задания\Репозиторий\GB.Java.Algorithms-DataStructures\src" />
+      <recent name="F:\Учеба\GeekBrains\Практические задания\Репозиторий\GB.Java.Algorithms-DataStructures\lesson2" />
+      <recent name="F:\Учеба\GeekBrains\Практические задания\Репозиторий\GB.Java.Algorithms-DataStructures\src\lesson1" />
+      <recent name="F:\Учеба\GeekBrains\Практические задания\Репозиторий\GB.Java.Algorithms-DataStructures" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TreeAnalysis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson6.homework.TreeAnalysis" />
+      <module name="GB.Java.Algorithms-DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson6.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TreeAnalysis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39d60117-974f-4aeb-ad79-11d58c94c8aa" name="Default Changelist" comment="" />
+      <created>1614719456910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614719456910</updated>
+      <workItem from="1614719458852" duration="1098000" />
+      <workItem from="1614720570550" duration="69000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1614720639314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1614720639314" />
+  </component>
+</project>
