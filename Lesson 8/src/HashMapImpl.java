@@ -155,10 +155,12 @@ public class HashMapImpl<K, V> implements HashMap<K, V> {
                     System.out.println(item);
                 } else {
                     Item<K, V> currentItem = item;
-                    while (currentItem != null) {
-                        System.out.println(currentItem);
+                    System.out.print(currentItem);
+                    while (currentItem.getChild() != null) {
+                        System.out.print(" -> " + currentItem.getChild());
                         currentItem = currentItem.getChild();
                     }
+                    System.out.println();
                 }
             } else {
                 System.out.println(item);
