@@ -1,4 +1,4 @@
-package graph;
+package lesson7.graph;
 
 public class Vertex {
     private final String label;

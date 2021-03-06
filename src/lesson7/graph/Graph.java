@@ -1,4 +1,4 @@
-package graph;
+package lesson7.graph;
 
 import java.util.*;
 
